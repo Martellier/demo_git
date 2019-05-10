@@ -8,3 +8,5 @@ une autre transformation"
 "une modification depuis git hub"
 
 "et aussi depuis ma machine locale"
+
+"bonjour les amiches"
